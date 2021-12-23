@@ -159,9 +159,15 @@ align-self: end;
 margin-right: 150px;
 margin-top: -50px;
 }
-a.signup{
+.signup1{
     border: 2px solid white;
     padding: 5px 20px;
+    border-radius: 5px;
+    background-color: #3882f6 ;
+    height: 15px;
+    width: 80px;
+    text-align: center;
+
 }
 .footer{
     display: flex;
