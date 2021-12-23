@@ -137,8 +137,8 @@ a{
 .su1{
     display: flex;
     background-color: #3882f6;
-    margin-left: 325px ;
-    margin-right: 325px;
+    margin-left: 20% ;
+    margin-right: 20%;
     border-radius: 10px;
     padding: 50px 20px;
     justify-content: space-between;
