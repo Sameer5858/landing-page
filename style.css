@@ -6,8 +6,7 @@ html{
 body{
     display: flex;
     flex-direction: column;
-    background-color: #1f2937;
-
+    height: 100vh;
 }
 a{
     text-decoration: none;
@@ -27,7 +26,10 @@ a{
     justify-content: space-around;
     background-color: #1f2937;
     color: white;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    margin: -10px ;
+    margin-right: -100px;
 }
 .hlink{
     display: flex;
@@ -40,6 +42,8 @@ a{
     background-color: #1f2937;
     justify-content: center;
     flex-shrink: 0;
+    margin-right: -100px;
+    margin-left: -10px;
 }
 .text{
     display: flex;
@@ -109,6 +113,11 @@ a{
 .t2{
     text-align: center;
 }
+.qp1{
+    background-color: #e5e7eb;
+    margin: 0 -50px;
+    margin-right: -100px;
+}
 .quote{
     display: flex;
     flex-direction: column;
@@ -156,7 +165,6 @@ a{
     align-items: center;
 }
 .su{
-    background-color: #f9faf8;
     display: flex;
     margin: auto -50px;
     justify-content: center;
